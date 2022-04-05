@@ -105,7 +105,7 @@ var params = currentURL().searchParams,
 			description: 'Bienvenidos.',
 			color: 0x5865f2,
 			timestamp: new Date().toISOString(),
-			url: 'http://botmasternico.ga/',
+			url: 'https://discord.gg/FNsC4cDnTj',
 			author: {
 				name: 'Master Nico',
 				icon_url: 'https://cdn.discordapp.com/avatars/928357222617055372/e8469875d7674331d67d541c14a0db9a.png?size=1024'
