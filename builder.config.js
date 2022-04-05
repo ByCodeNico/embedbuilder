@@ -1,8 +1,8 @@
 // URL options can override the options below.
 // Options set through the menu can override both.
 options = {
-	username: 'LunarBot',
-	avatar: 'https://cdn.discordapp.com/avatars/944332616558075954/36c90de840283d2d0a544303bcae8d7c.png?size=1024',
+	username: 'Master Nico',
+	avatar: 'https://cdn.discordapp.com/avatars/928357222617055372/e8469875d7674331d67d541c14a0db9a.png?size=1024',
 	verified: true,
 	noUser: false,
 	dataSpecified: false,
