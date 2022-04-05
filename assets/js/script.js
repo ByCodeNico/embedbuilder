@@ -101,23 +101,23 @@ var params = currentURL().searchParams,
 	jsonKeys = [...mainKeys],
 	json = window.json?.embed ||
 		window.json || {
-			title: '<:Amongdrip:897812953993211924> Among Us',
-			description: 'Hola papus :)',
+			title: '<a:PepeSaber:917188013916819456> Soporte',
+			description: 'Bienvenidos.',
 			color: 0x5865f2,
 			timestamp: new Date().toISOString(),
-			url: 'https://drgato.ml/',
+			url: 'http://botmasternico.ga/',
 			author: {
-				name: 'PubertLand',
-				icon_url: 'https://cdn.discordapp.com/icons/878292405214928926/a_63e1f08c7748cd36944aad42f1ab805e.gif'
+				name: 'Master Nico',
+				icon_url: 'https://cdn.discordapp.com/avatars/928357222617055372/e8469875d7674331d67d541c14a0db9a.png?size=1024'
 			},
 			thumbnail: {
-				url: 'https://cdn.discordapp.com/avatars/883105651407077386/a_760f47ad2315f016a07ecd985a74df43.gif'
+				url: 'https://media2.giphy.com/media/sRHVFZVZlHsOBwYTFn/200.gif'
 			},
 			image: {
-				url: 'https://cdn.discordapp.com/banners/883105651407077386/a_b432502056abf47b68d1661495f0fb37.gif?size=2048'
+				url: 'https://cdn.discordapp.com/banners/835232480931348531/a_213c013bfca3d0e7fa8ec7f58cbcdc01.gif?size=2048'
 			},
 			footer: {
-				text: 'LunarBot™️'
+				text: 'Master Nico'
 			},
 			fields: []
 		};
